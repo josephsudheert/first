@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1536132201 source:c:\users\josep\documents\c\test\function_recursive.c
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<string.h>
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<conio.h>
+	<malloc.h>
+	<stdio.h>
+	<malloc.h>
+	<stdlib.h>
+
+1536225798 source:c:\users\josep\documents\c\test\practice.c
+	<stdio.h>
+
